@@ -21,5 +21,10 @@ kubectl apply -f calico.yaml
 kubectl apply -f metric-server.yaml
 ```
 
+## Install Harbor
+
+https://goharbor.io/docs/2.4.0/install-config/
+
+## Install Rook/Ceph
 
 
